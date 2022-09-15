@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="21" />, I'm Harsh Mishra</h1>
 <h3 align="center">I'm a Computer Science enthusiast pursuing my undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmishra0014&label=Profile%20views&color=0e75b6&style=flat" alt="harshmishra0014" /> </p>
